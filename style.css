@@ -147,17 +147,17 @@ input[type="text" i] {
   height: 450px;
   width: 250px;
   border-radius: 4px;
-  background-image: url(/images/image1.png);
+  background-image: url(images/image1.png);
 
   background-size: cover;
   color: #fff;
 }
 
 .services_card:nth-child(2) {
-  background-image: url(/images/image2.png);
+  background-image: url(images/image2.png);
 }
 .services_card:nth-child(3) {
-  background-image: url(/images/games.png);
+  background-image: url(images/games.png);
 }
 
 .btn {
