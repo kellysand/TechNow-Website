@@ -1,0 +1,320 @@
+body {
+  margin: 0px;
+  height: 100%;
+}
+
+#top_section {
+  position: sticky;
+  background: black;
+  top: 0;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  z-index: 1;
+  width: 100%;
+}
+
+h1 {
+  margin: 0px;
+  text-align: center;
+}
+#icon,
+#icon2 {
+  position: relative;
+
+  background-color: #ffffff;
+  top: 45%;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#text-LOGO {
+  color: #fff;
+  position: relative;
+  height: 50px;
+  width: auto;
+  letter-spacing: 35px;
+  top: 30%;
+}
+#form1 {
+  position: relative;
+  bottom: 35px;
+  left: 170px;
+  display: inline-block;
+}
+
+.container {
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  top: 60%;
+  height: 40px;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #ffffff;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  transform: translate(0, 11px) rotate(-45deg);
+}
+.change .bar2 {
+  opacity: 0;
+}
+.change .bar3 {
+  transform: translate(0, -11px) rotate(45deg);
+}
+
+.onClickShow {
+  border-color: rgb(252, 36, 36);
+  border-width: 5px;
+  height: 300px;
+  width: 200px;
+  border-radius: 3px;
+  cursor: pointer;
+  position: absolute;
+  right: 0%;
+  top: 100%;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  display: none;
+  animation-name: anime;
+  animation-duration: 800ms;
+}
+@keyframes anime {
+  0% {
+    top: 300px;
+  }
+}
+
+.onClickShow h4 {
+  font-size: medium;
+  color: rgb(255, 255, 255);
+  border: 1px rgb(255, 0, 0);
+  cursor: pointer;
+}
+.LINKhava h4 {
+  display: inline-flex;
+  justify-content: space-evenly;
+  justify-content: s;
+}
+
+.LINKhava:hover {
+  transform: scale(0.9);
+  transition: 2s, ease-in;
+}
+
+input[type="text" i] {
+  text-align: center;
+}
+
+/*xxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+
+.btn:hover {
+  transform: scale(1.075);
+}
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxx*/
+.darkMode {
+  background-color: rgb(14, 13, 20);
+}
+
+.headerText {
+  color: #ff0000;
+}
+.services {
+  height: fit-content;
+  width: 100%;
+}
+.services_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.services_card {
+  margin: 2rem;
+  height: 450px;
+  width: 250px;
+  border-radius: 4px;
+  background-image: url(/images/image1.png);
+
+  background-size: cover;
+  color: #fff;
+}
+
+.services_card:nth-child(2) {
+  background-image: url(/images/image2.png);
+}
+.services_card:nth-child(3) {
+  background-image: url(/images/games.png);
+}
+
+.btn {
+  height: 30px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  position: relative;
+  top: 200px;
+  transition: all, 0.35s;
+  color: white;
+  font-weight: bold;
+}
+.btn a {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+}
+.btn::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(219, 192, 37);
+  transition: all, 0.35s;
+  color: rgb(255, 255, 255);
+}
+.btn:hover {
+  color: #ffffff;
+}
+
+.btn:hover::after {
+  width: 100%;
+}
+
+.services_card p {
+  top: 400px;
+  left: 25px;
+}
+
+.services h2 {
+  color: #92ff03;
+  top: 350px;
+  left: 30px;
+}
+
+.services_card:hover {
+  transform: scale(1.075);
+  transition: 700ms ease-in;
+  position: static;
+}
+/* xxxxxxxxxxxxxx page1 css xxxxxxxxxxxxxxxxxxx*/
+
+.P2service_Card {
+  margin: 1rem;
+  height: 350px;
+  width: 190px;
+  border-radius: 4px;
+  border: solid 2px rgb(0, 0, 0, 0);
+  background-color: rgb(243, 243, 243);
+  background-size: cover;
+  align-items: center;
+  position: static;
+  text-align: center;
+}
+.P2service_Card:hover {
+  transform: scale(1.075);
+  transition: 80ms;
+  position: static;
+  border: solid 2px rgb(250, 213, 213);
+}
+dl {
+  display: inline-table;
+
+  height: auto;
+}
+
+.MONEY {
+  color: #33ff00;
+  margin: 0px;
+  border: solid 2px rgb(218, 171, 16);
+  border-radius: 10px;
+  padding-left: 0px;
+}
+dt {
+  height: fit-content;
+}
+
+marquee {
+  color: rgb(30, 255, 0);
+}
+
+.mName {
+  color: #ff0000;
+}
+
+/*xxxxxxxxxxxxxxxxxxxxxxx GAMING CSS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+
+.Game_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.Game_card {
+  height: auto;
+  width: 250;
+  border: solid 2px rgb(25, 0, 255);
+  text-align: center;
+  border-radius: 7px;
+  background-color: black;
+  margin: 2rem;
+}
+.Game_card :nth-last-child() {
+  border: solid 2px gold;
+}
+.Game_card img {
+  height: 350px;
+  width: 200px;
+  border-radius: 7px;
+}
+
+.Game_card p {
+  color: wheat;
+  border-radius: 7px;
+  height: auto;
+  width: 250px;
+  margin: 0;
+  position: relative;
+  background-color: black;
+}
+.Game_card h2 {
+  height: auto;
+  width: 250px;
+  border-radius: 7px;
+  margin: 0;
+  background-color: black;
+}
+/*xxxxxxxxxxxxxxxx ABOUT CSS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+
+.About_card {
+  height: auto;
+  width: 40%;
+  border: solid 2px gold;
+  text-align: center;
+  border-radius: 7px;
+  background-color: black;
+  color: wheat;
+  margin: 20px;
+}
+
+#PreLoad {
+  position: absolute;
+  z-index: 3;
+  background-color: rgba(0, 0, 0, 0.945);
+  height: 100%;
+  width: 100%;
+  background-image: url(/images/loading-27.gif);
+  background-position: center;
+}

@@ -1,0 +1,187 @@
+co2
+name PCBuilder AMD Ryzen 5 5500 SCOUT Windows 11 Gaming PC
+Specifications:
+Operating System: Microsoft Windows 11 Home
+AMD Ryzen 5 5500 6-Core 3.6GHz AM4 CPU
+o Cores: 6 Cores
+o Base Clock Speed: 3.6GHz
+o Boost Clock Speed: 4.2GHz
+o Socket: AM4
+MSI B550 Chipset AM4 Micro-ATX Motherboard
+o Socket: AM4
+o Form Factor: Micro-ATX
+16GB DDR4 3600MHz Gaming Memory
+o Capacity: 16GB
+o Data Transfer Rate: 3600MHz
+o Generation: DDR4
+MSI GeForce GTX 1650 Graphics Card
+o Memory: 4GB GDDR6
+500GB 2.5? SATA SSD
+o Capacity: 500GB
+550W Non-Modular Power Supply
+o Rated Output Power: 550W
+MSI MAG FORGE M100A ARGB m-ATX Gaming Chassis
+o Type: m-ATX Mid Tower
+o Side Panel: Tempered glass
+o Expansion Slots: 7
+o Dimension: 38.8 x 20 x 42.3 cm
+
+.............................................
+co3
+R 49,999
+PCBuilder AMD Ryzen 7 5800X3D PIONEER Windows 11 Gaming PC
+Product Code 000000000010287590
+     
+Corsair Tempered Glass ATX Chassis
+AMD Ryzen 7 5800X3D 8-Core 3.4GHz CPU
+AM4 ATX Motherboard
+32GB DDR4 3600MHz Gaming Memory
+RTX 3070 8GB Graphics Card
+Gen4 2TB NVMe SSD
+850W 80Plus Modular Power Supply
+3 Year Warranty (Upon Registration)
+
+.............................................
+co4
+R 26,999
+PCBuilder AMD Ryzen 5 5600X CAVALRY Windows 11 Gaming PC
+Product Code 000000000010287589
+     
+Antec NX310 ARGB ATX Gaming Chassis
+AMD Ryzen 5 5600X CPU
+RTX 3050 Graphics Card
+16GB DDR4 3200MHz Gaming Memory
+Gen4 1TB NVMe SSD
+650W 80Plus Non-Modular Power Supply
+Includes 1 Month Xbox Gamepass Ultimate
+3 Year Warranty (Upon Registration)
+
+..............................................
+co5
+Intel 12th Gen Core i7 12700K 5.0GHz RTX 3080 Ti 12GB Budget Gaming PC
+Standard Features Include: 
+Intel 12th Gen Core i7-12700K (3.6GHz, 25MB Cache, 12x Cores, Turbo 5.0Ghz) CPU
+Intel Z690 DDR4 LGA 1700 USB3.2 Intel Motherboard
+GeForce RTX 3080 Ti 12GB GDDR6X DX12 Graphics Card
+16GB DDR4 3200MHz High Performance RAM
+1TB NVME SSD Upto 3100MB/s + Speed Ultra-Fast Solid State Drive
+2TB Hard Drive7200rpm High Performance Hard Drive
+800W 80 Plus Gold Modular Power Supply
+HP OMEN GAMING CASE
+Integrated 8 CH High Defination Sound Card
+Windows 11 Home (64bit) Integrated
+12 Months Warranty
+ 
+
+................................................
+co6
+Intel 12th Gen Core i9 12900KS 5.5GHz RTX 4070 Ti 12GB Budget Gaming PC
+Standard Features Include: 
+Intel 12th Generation Core i9-12900KS (4.0GHz, 44MB Cache, 16x Cores, Turbo 5.5Ghz) CPU
+MSI PRO B660M-E DDR4 LGA 1700 USB3.2 Intel Motherboard
+GeForce RTX 4070 Ti 12GB GDDR6X DX12 Graphics Card
+16GB RGB DDR4 3600MHz High Performance RAM
+512GB NVME SSD Upto 3100MB/s + Speed Ultra-Fast Solid State Drive
+750W 80+ Modular Gaming Power Supply
+EVETECH RIX RGB Tempered Glass GAMING CASE
+Integrated 8 CH High Defination Sound Card
+LCD and OS Optional
+24 Months Warranty
+
+..............................................
+co7
+Iron Assassin(47) | R9 7950X | 16GB | 1TB NVMe SSD | RTX 4080 16GB
+R53,071.00
+
+ADD TO CART
+REQUEST QUOTE
+Compare
+Add to wishlist
+AMD Ryzen 9 7950X 16-Core 5.7GHz Processor
+CPU Liquid Cooler
+Asus/MSI/Gigabyte X670 Desktop Motherboard
+16GB DDR5-4800 Desktop Memory
+1TB M.2 NVMe Solid State Drive
+GeForce RTX 4080 16GB Graphics Card
+850W High Performance Power Supply
+Corsair 4000D Airflow Tempered Glass ATX Gaming Case
+
+Images for Illustrative Purposes Only
+Peripherals not Included
+..............................................
+co8
+Samurai Gaming PC(32) | R9 7900X | 16GB | 480GB NVMe SSD | RTX 4070 Ti 12GB
+R39,651.00
+
+ADD TO CART
+REQUEST QUOTE
+Compare
+Add to wishlist
+AMD Ryzen 9 7900X 5.6GHz Processor
+120mm Liquid Processor Cooler
+Asus/MSI/Gigabyte B650m Desktop Motherboard
+16GB DDR5-4800 Desktop Memory
+480GB M.2 NVMe Solid State Drive
+GeForce RTX 4070Ti 12GB Graphics Card
+800W High Performance Power Supply
+SSD Brackets
+Coolermaster Masterbox Q300P Gaming Case
+
+Images for Illustrative Purposes Only
+Peripherals not Included
+................................................
+..............................................
+co9
+War Chief(62) | I9 13900KF | 32GB | 1TB M.2 NVMe SSD | GeForce RTX 4090 24GB
+R66,160.00
+
+ADD TO CART
+REQUEST QUOTE
+Compare
+Add to wishlist
+Intel Core i9-13900KF 5.80GHz Processor
+CPU Liquid Cooler
+Asus/MSI/Gigabyte Z790MD5 Desktop Motherboard
+32GB DDR5-5200 Desktop Memory
+1TB M.2 NVMe Solid State Drive
+GeForce RTX 4090 24GB Graphics Card
+1000W High Performance Power Supply
+NZXT H710 Black And Red ATX Desktop Case
+
+Images for Illustrative Purpose
+......................................
+..............................................
+co10
+Liberator X7(44) | R7 5800X | 16GB | 480GB M.2 NVMe SSD | RTX 3060 12GB
+R18,180.00
+
+ADD TO CART
+REQUEST QUOTE
+Compare
+Add to wishlist
+AMD Ryzen 7 5800X 4.7GHz Processor
+DeepCool Ice-Edge Mini FS CPU Cooler
+Asus/MSI/Gigabyte A520m Desktop Motherboard
+16GB DDR4-3200 Desktop Memory
+GeForce RTX 3060 12GB Graphics Card
+480GB M.2 NVMe Solid State Drive
+550W High Performance Power Supply
+Armaggeddon NIMITZN5 mATX Gaming Case
+
+Images for Illustrative P
+......................................
+..............................................
+co
+......................................
+..............................................
+co
+......................................
+..............................................
+co
+......................................
+..............................................
+co
+......................................
+..............................................
+co
+......................................
